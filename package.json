@@ -1,0 +1,15 @@
+{
+  "name": "gulp-local-server",
+  "version": "1.0.0",
+  "description": "This is the local server running on Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "*",
+    "gulp": "*"
+  }
+}
